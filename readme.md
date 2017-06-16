@@ -25,20 +25,21 @@ Then edit your $HOME/.bashrc
 
 And add this at the end
 
-`$ alias html5-generate='~/bin/html5-generate/html5-generate.sh'`
+`$ alias html5-generate='$HOME/bin/html5-generate/html5-generate.sh'`
 
 You're done!
 
 
 ## Usage
 
-Go to the directory where you want to create your new project folder and rn 'html5-generate' with the name of your project
+Go to the directory where you want to create your new project folder and run 'html5-generate' with the name of your project
 
 `$ html5-generate <nameOfYourProjectHere>`
 
 For example if I want to make an html5 project called 'catroom' in my Documents folder, I would run
 
 `$ cd ~/Documents`
+
 `$ html5-generate catroom`
 
 
