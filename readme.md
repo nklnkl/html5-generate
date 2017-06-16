@@ -5,7 +5,7 @@ There are hundreds of these generators out there. I'm just putting this in a rep
 
 ## Requirements
 
-You just need UNIX, that's all. And hopefully you're not having bash / alias related issues. If you are, can't help you. Google it.
+You just need UNIX, that's all. And hopefully you're not having bash / alias related issues.
 
 ## Installation
 
@@ -28,7 +28,7 @@ You're done!
 
 ## Usage
 
-Run html5-generate with the path of your project you're trying to create.
+Go to the directory where you want to create your new project folder and rn 'html5-generate' with the name of your project
 `html5-generate <nameOfYourProjectHere>`
 
 For example if I want to make an html5 project called 'catroom' in my Documents folder, I would run
